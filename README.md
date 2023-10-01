@@ -13,7 +13,7 @@ Snappy is a chat application using MERN Stack.
 - clone the repo
 
 ```shell
-git clone https://github.com/Mahmoud-Hamza-Git/realtime-chatapp
+git clone https://github.com/Mahmoud-Hamza-Git/realtime-chatapp.git
 cd realtime-chatapp
 ```
 
